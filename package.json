@@ -1,0 +1,30 @@
+{
+  "name": "hello_world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tran-Thanh-The/nodejs_hello_world.git"
+  },
+  "keywords": [
+    "hello",
+    "world"
+  ],
+  "author": "\"tran the\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tran-Thanh-The/nodejs_hello_world/issues"
+  },
+  "homepage": "https://github.com/Tran-Thanh-The/nodejs_hello_world#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
